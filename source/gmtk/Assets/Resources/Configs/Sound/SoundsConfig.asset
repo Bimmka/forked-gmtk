@@ -1,0 +1,127 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a8d7d3bab6ab4348af1393c5117fe676, type: 3}
+  m_Name: SoundsConfig
+  m_EditorClassIdentifier: 
+  SoundContainers:
+  - Type: 0
+    Clip: {fileID: 8300000, guid: 0dc8d5636b242bb4c91f92c88144fe57, type: 3}
+    MixerGroup: {fileID: -2615998161109708110, guid: c9395e8f0d2307b40804c3fd9c7707b6, type: 2}
+    Duration: 0.5
+    DefaultVolume: 1
+    IsLoop: 0
+    IsInfinite: 0
+    IsIgnoreTimeScale: 1
+  - Type: 1
+    Clip: {fileID: 8300000, guid: 8ed89e24ae0e88349bba450f95a2b808, type: 3}
+    MixerGroup: {fileID: 8211097604056377041, guid: c9395e8f0d2307b40804c3fd9c7707b6, type: 2}
+    Duration: 0
+    DefaultVolume: 1
+    IsLoop: 1
+    IsInfinite: 1
+    IsIgnoreTimeScale: 1
+  - Type: 2
+    Clip: {fileID: 8300000, guid: 180cdd20db9c2b04dbc532e6c2af5996, type: 3}
+    MixerGroup: {fileID: 8211097604056377041, guid: c9395e8f0d2307b40804c3fd9c7707b6, type: 2}
+    Duration: 0
+    DefaultVolume: 1
+    IsLoop: 1
+    IsInfinite: 1
+    IsIgnoreTimeScale: 1
+  - Type: 3
+    Clip: {fileID: 8300000, guid: eae76ea194922e54ebb64ab6735c0ffe, type: 3}
+    MixerGroup: {fileID: 8211097604056377041, guid: c9395e8f0d2307b40804c3fd9c7707b6, type: 2}
+    Duration: 3.5
+    DefaultVolume: 1
+    IsLoop: 0
+    IsInfinite: 0
+    IsIgnoreTimeScale: 1
+  - Type: 4
+    Clip: {fileID: 8300000, guid: 62bb9251b990e304a8b6b4910ed0de34, type: 3}
+    MixerGroup: {fileID: 8211097604056377041, guid: c9395e8f0d2307b40804c3fd9c7707b6, type: 2}
+    Duration: 5.5
+    DefaultVolume: 1
+    IsLoop: 0
+    IsInfinite: 0
+    IsIgnoreTimeScale: 1
+  - Type: 5
+    Clip: {fileID: 8300000, guid: f6144d7670a9ba24a8b2a5ffaf31b875, type: 3}
+    MixerGroup: {fileID: -2615998161109708110, guid: c9395e8f0d2307b40804c3fd9c7707b6, type: 2}
+    Duration: 2.5
+    DefaultVolume: 1
+    IsLoop: 0
+    IsInfinite: 0
+    IsIgnoreTimeScale: 0
+  - Type: 6
+    Clip: {fileID: 8300000, guid: acfe0f3b30f27e3459707cdb6e3000e6, type: 3}
+    MixerGroup: {fileID: -2615998161109708110, guid: c9395e8f0d2307b40804c3fd9c7707b6, type: 2}
+    Duration: 1
+    DefaultVolume: 1
+    IsLoop: 0
+    IsInfinite: 0
+    IsIgnoreTimeScale: 0
+  - Type: 7
+    Clip: {fileID: 8300000, guid: de6c4c5a759aa8c498d7a59707cf83ac, type: 3}
+    MixerGroup: {fileID: -2615998161109708110, guid: c9395e8f0d2307b40804c3fd9c7707b6, type: 2}
+    Duration: 1.75
+    DefaultVolume: 1
+    IsLoop: 0
+    IsInfinite: 0
+    IsIgnoreTimeScale: 0
+  - Type: 8
+    Clip: {fileID: 8300000, guid: 502ce758dda402c4aaf1f06244e1aa05, type: 3}
+    MixerGroup: {fileID: -2615998161109708110, guid: c9395e8f0d2307b40804c3fd9c7707b6, type: 2}
+    Duration: 0.8
+    DefaultVolume: 1
+    IsLoop: 1
+    IsInfinite: 0
+    IsIgnoreTimeScale: 0
+  - Type: 9
+    Clip: {fileID: 8300000, guid: 6dcbb36bb73d310468cf7981658d7a77, type: 3}
+    MixerGroup: {fileID: -2615998161109708110, guid: c9395e8f0d2307b40804c3fd9c7707b6, type: 2}
+    Duration: 0.4
+    DefaultVolume: 1
+    IsLoop: 1
+    IsInfinite: 1
+    IsIgnoreTimeScale: 0
+  - Type: 10
+    Clip: {fileID: 8300000, guid: 4bbef598934af1a43a45f6a254ca39ff, type: 3}
+    MixerGroup: {fileID: -2615998161109708110, guid: c9395e8f0d2307b40804c3fd9c7707b6, type: 2}
+    Duration: 1.2
+    DefaultVolume: 1
+    IsLoop: 0
+    IsInfinite: 0
+    IsIgnoreTimeScale: 0
+  - Type: 11
+    Clip: {fileID: 8300000, guid: 583b644f1a4041a4ea0c7e360c4a40cb, type: 3}
+    MixerGroup: {fileID: -2615998161109708110, guid: c9395e8f0d2307b40804c3fd9c7707b6, type: 2}
+    Duration: 0.3
+    DefaultVolume: 1
+    IsLoop: 0
+    IsInfinite: 0
+    IsIgnoreTimeScale: 0
+  - Type: 12
+    Clip: {fileID: 8300000, guid: 7dff5e6d385eda748b9a8e516161cbdc, type: 3}
+    MixerGroup: {fileID: -2615998161109708110, guid: c9395e8f0d2307b40804c3fd9c7707b6, type: 2}
+    Duration: 3.6
+    DefaultVolume: 1
+    IsLoop: 1
+    IsInfinite: 1
+    IsIgnoreTimeScale: 0
+  - Type: 13
+    Clip: {fileID: 8300000, guid: f6144d7670a9ba24a8b2a5ffaf31b875, type: 3}
+    MixerGroup: {fileID: -2615998161109708110, guid: c9395e8f0d2307b40804c3fd9c7707b6, type: 2}
+    Duration: 2.5
+    DefaultVolume: 1
+    IsLoop: 0
+    IsInfinite: 0
+    IsIgnoreTimeScale: 0

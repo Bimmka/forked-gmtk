@@ -1,0 +1,58 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 68f567ce7f584441b3ddb1efea1dc946, type: 3}
+  m_Name: LevelConfig 1
+  m_EditorClassIdentifier: 
+  Id: 1
+  Index: 1
+  LevelPrefab: {fileID: 245291918180634409, guid: 8fe5b7e7ef530c7459644e477a02da32, type: 3}
+  TaskConfig:
+    TaskType: 0
+    DurationLimitation: 
+    AmountCondition: 0
+    TaskGoalsByRabbitColor:
+    - ColorType: 1
+      MinAmount: 5
+      MaxAmount: 5
+    TaskDurationTime: 0
+    TimeToHold: 0
+    DecreaseHoldTimeProgressSpeed: 1
+    MinAmount: 0
+    MaxAmount: 0
+  IslandsData:
+  - DiveType: 1
+    StallsOnIsland: 00000000
+    ToSurfaceTime: 1.5
+    MaxRabbitsBeforeDive: 8
+    NextDiveTime: 5
+  - DiveType: 2
+    StallsOnIsland: 01000000
+    ToSurfaceTime: 1.5
+    MaxRabbitsBeforeDive: 8
+    NextDiveTime: 5
+  StallsSpawnData:
+  - SpawnPosition: {x: 17.92, y: -0.81, z: 0}
+    Index: 0
+    Bounds: {x: 9.31, y: 10.4}
+  - SpawnPosition: {x: 3.57, y: -0.81, z: 0}
+    Index: 1
+    Bounds: {x: 9.31, y: 10.4}
+  PresetupRabbits:
+  - Type: 1
+    StallIndex: 1
+  - Type: 1
+    StallIndex: 1
+  Infections: []
+  PresetupFoxesData: []
+  PresetupHoleData: []
+  ConveyorBelts: []
+  Hint: Rabbits only reproduce when they are in the same pen.

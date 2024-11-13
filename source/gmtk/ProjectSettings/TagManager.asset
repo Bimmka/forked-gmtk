@@ -1,0 +1,70 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags: []
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Rabbit
+  - Stall
+  - Fox
+  - Hole
+  - ConveyorBelt
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Background
+    uniqueID: 1208412249
+    locked: 0
+  - name: Decor
+    uniqueID: 4015274677
+    locked: 0
+  - name: FenceBack
+    uniqueID: 1071606209
+    locked: 0
+  - name: Hole
+    uniqueID: 1270456167
+    locked: 0
+  - name: ConveyorBelt
+    uniqueID: 2852376275
+    locked: 0
+  - name: Rabbit
+    uniqueID: 2604813159
+    locked: 0
+  - name: Fox
+    uniqueID: 856221583
+    locked: 0
+  - name: FenceForward
+    uniqueID: 3731957325
+    locked: 0
+  - name: VFX
+    uniqueID: 2567753301
+    locked: 0

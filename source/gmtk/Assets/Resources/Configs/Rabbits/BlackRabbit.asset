@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c8559c2499fb471dba1e7dd81dc14503, type: 3}
+  m_Name: BlackRabbit
+  m_EditorClassIdentifier: 
+  ColorType: 2
+  View: {fileID: 2658883369037870289, guid: a56431de97c6f4a4aa298c5c7df76806, type: 3}
+  MinIntervalBetweenMoving: 1
+  MaxIntervalBetweenMoving: 2.5
+  MinIntervalBetweenReplication: 9
+  MaxIntervalBetweenReplication: 9
+  MinReplicationDuration: 0.5
+  MaxReplicationDuration: 0.5
+  MinWaitReplicationDuration: 1.5
+  MaxWaitReplicationDuration: 3
+  MinSpeed: 1.5
+  MaxSpeed: 3
+  MinTimeToReleaseFromDrag: 2.5
+  MaxTimeToReleaseFromDrag: 3.5
+  ChanceForSociopath: 0.1
